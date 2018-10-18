@@ -1,5 +1,6 @@
 package com.lab2;
 
+import java.io.ObjectStreamException;
 import java.io.Serializable;
 
 public class Employee  implements Serializable{
@@ -14,6 +15,20 @@ public class Employee  implements Serializable{
 	private String enamil;
 	
 	private String place;
+	
+	
+//	public Object writeReplace() throws ObjectStreamException{
+//		
+//		System.out.println("Object writeReplace()______________");
+//		return new ObjectStreamException(){};
+//	}
+//	
+//	public Object readResolve()throws ObjectStreamException{
+//		
+//		System.out.println("public Object readResolve()------------");
+//		
+//		return new ObjectStreamException(){};
+//	}
 	
 	public Employee(){System.out.println("Employee--->d.c()"); }
 
