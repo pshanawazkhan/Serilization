@@ -1,6 +1,6 @@
 package com.lab2;
 
-import java.io.ObjectStreamException;
+
 import java.io.Serializable;
 
 public class Employee  implements Serializable{

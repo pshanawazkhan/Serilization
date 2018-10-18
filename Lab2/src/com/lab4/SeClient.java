@@ -1,4 +1,4 @@
-package com.lab3;
+package com.lab4;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -8,9 +8,9 @@ public class SeClient {
 
 	public static void main(String[] args)  throws IOException{
 
-		
+		//String name, String place, String email, String cname, double cfees
 
-		NewStudent ns= new NewStudent("shanawaz","shan@gmail.com","banglore","cjava",45454);
+		NewStudent ns= new NewStudent("shanawaz","banglore","shan@gmail.com","cjava",45454);
 		
 		FileOutputStream fos =new FileOutputStream("a.txt");
 		

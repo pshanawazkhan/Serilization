@@ -16,7 +16,7 @@ public class Main1 {
 		
 		System.out.println(e.getId()+"  "+e.getName()+"  "+e.getPlace()+"  "+e.hashCode());
 		
-		
+		ois.close();
 
 	}
 

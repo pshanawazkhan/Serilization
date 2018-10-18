@@ -1,6 +1,6 @@
 package com.lab2;
 
-import java.io.FileInputStream;
+
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 
@@ -23,6 +23,7 @@ e.setId(1282);
 		System.out.println("Serilization IS cOMPLEATED ");
 		System.out.println("Complited Sucessfull");
 		
+		oos.close();
 	}
 
 }

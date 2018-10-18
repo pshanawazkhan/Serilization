@@ -1,4 +1,4 @@
-package com.lab3;
+package com.lab4;
 
 import java.io.FileInputStream;
 
