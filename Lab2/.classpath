@@ -2,5 +2,35 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/antlr-2.7.6rc1.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/asm.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jaas.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/javassist.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/jta.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/mysql.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate and Mysql jars/Hibernate Annotation Jars/Hibernate  Annotation Jars/Jars/xml-apis.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
