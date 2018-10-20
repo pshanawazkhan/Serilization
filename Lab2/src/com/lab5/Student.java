@@ -54,7 +54,7 @@ ois.defaultReadObject();
 
 System.out.println("-----------------------------------------");
 	String pwd =(String) ois.readObject();
-	password =pwd;
+	password =pwd.substring(0, 8);
 	// System.out.println("private void readObject()---> "+password);
  }
  
